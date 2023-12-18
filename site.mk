@@ -5,7 +5,6 @@
 
 GLUON_FEATURES := \
         autoupdater \
-        authorized-keys \
         config-mode-geo-location \
         ebtables-filter-multicast \
         ebtables-filter-ra-dhcp \
