@@ -6,11 +6,11 @@
 GLUON_FEATURES := \
         autoupdater \
         config-mode-geo-location \
+        config-mode-mesh-vpn \
         ebtables-filter-multicast \
         ebtables-filter-ra-dhcp \
         ebtables-limit-arp \
         mesh-batman-adv-15 \
-        mesh-vpn-tunneldigger \
         radv-filterd \
         radvd \
         respondd \
@@ -30,6 +30,7 @@ GLUON_FEATURES := \
 #       gluon-rsk-block-mesh
 
 GLUON_SITE_PACKAGES := \
+        community-mesh-vpn-tunneldigger \
         gluon-web-autoupdater \
         ffho-autoupdater-wifi-fallback \
         haveged \

@@ -1,4 +1,4 @@
-GLUON_SITE_FEEDS="ssidchanger fflip ffmuc eulenfunk"
+GLUON_SITE_FEEDS="ssidchanger fflip ffmuc eulenfunk community"
 
 PACKAGES_SSIDCHANGER_REPO=https://github.com/freifunk-nord/gluon-ssid-changer.git
 PACKAGES_SSIDCHANGER_COMMIT=222b96a30259a03ca8ecdb173d9d326077a6efec
@@ -15,3 +15,8 @@ PACKAGES_FFMUC_BRANCH=main
 PACKAGES_EULENFUNK_REPO=https://github.com/ffac/eulenfunk-packages.git
 PACKAGES_EULENFUNK_COMMIT=25bdb8ef28531ab4ec6a978a5356c3c07518a826
 PACKAGES_EULENFUNK_BRANCH=v2019.1.x
+
+PACKAGES_COMMUNITY_REPO=https://github.com/herbetom/community-packages.git
+PACKAGES_COMMUNITY_COMMIT=767b6f87fc7c77bc826a118980085e16c412954f
+PACKAGES_COMMUNITY_BRANCH=add-tunneldigger
+
